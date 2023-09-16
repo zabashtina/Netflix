@@ -28,3 +28,10 @@
   <img src="https://github.com/zabashtina/Netflix/blob/main/Netflix/Screenshots/DownloadsViewController1.png" width="300" height="620"/>&nbsp;
   <img src="https://github.com/zabashtina/Netflix/blob/main/Netflix/Screenshots/DownloadsViewController2.png" width="300" height="620"/>&nbsp;
 </div>
+
+Приложение реальзовано с помощью архитектуры MVVM и фреймворка UIKit. Для показа афиш фильмов используется API https://www.themoviedb.org.Хранение загруженных фильмов реализуется с помощью СoreData. Также используется YouTube API для показа трейлеров фильмов.
+
+<div>
+  <img src="https://github.com/zabashtina/Netflix/blob/main/Netflix/Screenshots/DownloadButton.png" width="300" height="620"/>&nbsp;
+  <img src="https://github.com/zabashtina/Netflix/blob/main/Netflix/Screenshots/YouTubeAPI.png" width="300" height="620"/>&nbsp;
+</div>
