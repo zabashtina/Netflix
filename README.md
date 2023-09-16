@@ -25,5 +25,4 @@
 <div>
   <img src="https://github.com/zabashtina/Netflix/blob/main/Netflix/Screenshots/DownloadsViewController1.png" width="300" height="620"/>&nbsp;
   <img src="https://github.com/zabashtina/Netflix/blob/main/Netflix/Screenshots/DownloadsViewController2.png" width="300" height="620"/>&nbsp;
-  <img src="https://github.com/zabashtina/Netflix/blob/main/Netflix/Screenshots/DownloadsViewController3.png" width="300" height="620"/>&nbsp;
 </div>
