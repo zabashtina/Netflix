@@ -14,7 +14,9 @@
 <div>
   <img src="https://github.com/zabashtina/Netflix/blob/main/Netflix/Screenshots/UpcomingViewController.png" width="300" height="620"/>&nbsp;
 </div>
-- SearchViewController
+
+- ### SearchViewController
+  
 <div>
   <img src="https://github.com/zabashtina/Netflix/blob/main/Netflix/Screenshots/SearchViewController1.png" width="300" height="620"/>&nbsp;
   <img src="https://github.com/zabashtina/Netflix/blob/main/Netflix/Screenshots/SearchViewController2.png" width="300" height="620"/>&nbsp;
